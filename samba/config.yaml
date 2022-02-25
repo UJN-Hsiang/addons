@@ -27,7 +27,7 @@ options:
     - 192.168.0.0/16
     - fe80::/10
   compatibility_mode: false
-  password: null
+  password: abc123
   username: homeassistant
   veto_files:
     - ._*
